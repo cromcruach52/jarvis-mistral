@@ -1,0 +1,11 @@
+python-dotenv
+ollama
+requests
+speechrecognition
+pyttsx3
+pyaudio
+keyboard
+pocketsphinx
+langchain 
+langchain-community
+langchain-ollama
