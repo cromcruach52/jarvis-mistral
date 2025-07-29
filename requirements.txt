@@ -9,3 +9,10 @@ pocketsphinx
 langchain 
 langchain-community
 langchain-ollama
+pyautogui
+pytesseract
+pygetwindow
+Pillow
+winshell
+pywin32
+psutil
